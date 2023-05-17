@@ -64,7 +64,7 @@ _____
   - 基本类型（primitive type）
   - 引用类型（reference type）
 
-![截图](../lesson_1/图片/数据类型.png)
+![截图](https://github.com/GISERJayY/JavaLesson_1/blob/main/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png?raw=true)
 
 - 什么是字节
 
